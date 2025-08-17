@@ -28,5 +28,8 @@ I implemented Decision Tree Classifiers using both Gini Impurity and Entropy as 
 ## CONCLUSION
 This project highlights the power of machine learning in predictive analytics. By leveraging classification models, banking institutions can better understand customer behavior, enhance marketing strategies, and effectively target potential subscribers.
 
+## CONTACT
+- LINKEDIN ![Alt Text]()
+- GMAIL 11aishwarya00@gmail.com
 
 Thank you for reviewing my internship task submission!
