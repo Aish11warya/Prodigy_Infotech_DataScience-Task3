@@ -1,7 +1,7 @@
 # Prodigy_Infotech_DataScience-Task3
 ## INTRODUCTION
 This repository contains my submission for Task 3 of the Data Science Internship at Prodigy InfoTech. In this task, I applied machine learning models to predict whether clients will subscribe to a term deposit, using demographic and behavioral data collected from direct marketing campaigns conducted by a Portuguese banking institution.
-![Alt Task](DS_T3.png)
+![Alt Task](ds_t3.png)
 
 ## PROJECT OVERVIEW
 The objective of this project is to build predictive models that can help banking institutions identify customers who are more likely to subscribe to term deposits. By detecting potential subscribers in advance, banks can improve their marketing efficiency, optimize campaign strategies, and increase customer conversion rates.
